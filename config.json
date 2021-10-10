@@ -1,0 +1,29 @@
+{
+    "base_parameters": {
+        "url": "https://brain.deepgram.com/v2/listen"
+    },
+    "headers": {
+        "dg_authentication_headers": {
+            "Authorization": "Basic {BASE64_ENCODED_USER_PASS}"
+        },
+            "url_content_type": {
+            "Content-Type": "application/json"
+        },
+            "binary_content_type": {
+            "Content-Type": "application/octet-stream"
+        }
+    },
+    "req_parameters" :{
+        "binary_payload_path" : "/Users/elliot/Downloads/commercial_mono.wav",
+        "url_payload_path": "http://storage.googleapis.com/cloud-samples-data/speech/commercial_mono.wav",
+        "query_parameters": {
+            "models": {
+                "model_1": "phonecall",
+                "model_2": "voicemail"
+            },
+            "languages": {
+                "language": "en-US"
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+[Run #1]: 
+Model - phonecall 
+Response Time - 5.099361896514893 seconds 
+ID - OtrnXXKV8LwbnGu7tAuacyBmPmxfPIFl
+
+[Run #1]: 
+Model - voicemail 
+Response Time - 2.823030710220337 seconds 
+ID - 52o5di0zAeDCWcqSDmbZEfTniNZMDRq6
+
+[Run #2]: 
+Model - phonecall 
+Response Time - 11.575402021408081 seconds 
+ID - nE5BhlC1w4haFBtzzR4HememhOkPoSMy
+
+[Run #2]: 
+Model - voicemail 
+Response Time - 45.9145450592041 seconds 
+ID - 9e0Ja0bAXzn03nS66qksJRJDnXwECUJP
+
+[Run #3]: 
+Model - phonecall 
+Response Time - 6.134226083755493 seconds 
+ID - yyxoHiDfvhSX7HT8TU55WOLxR14ggtoE
+
+[Run #3]: 
+Model - voicemail 
+Response Time - 3.7871782779693604 seconds 
+ID - UYd1NMlNa9Oe3UQgYNpUgmTTpnZ3mZig
+
+[Run #4]: 
+Model - phonecall 
+Response Time - 3.990060806274414 seconds 
+ID - j2kSMSgYCpYcs9UmlAQ3TOwDgcunAHVi
+
+[Run #4]: 
+Model - voicemail 
+Response Time - 14.109928369522095 seconds 
+ID - 9GfVAKcP0B2kwCYWKYaVDiblnMLgosy6
+

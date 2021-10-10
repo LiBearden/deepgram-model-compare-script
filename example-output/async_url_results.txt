@@ -1,0 +1,202 @@
+[Run #1]: 
+Model - phonecall 
+Response Time - 4.803695917129517 seconds 
+ID - SE85aX9kTZLUuH652nb3L2FAfhix266E
+
+[Run #1]: 
+Model - voicemail 
+Response Time - 3.869558095932007 seconds 
+ID - u29fWQOZVJ2cVhvnIxz0v2xeL07KRQcY
+
+[Run #2]: 
+Model - phonecall 
+Response Time - 12.510885953903198 seconds 
+ID - CJrsSWU6v2DsryU1pYoq0ZPGHFhgCeUz
+
+[Run #2]: 
+Model - voicemail 
+Response Time - 9.623465061187744 seconds 
+ID - cKZIw1IF8mBleI2ysFWNLQwMktZoy39m
+
+[Run #3]: 
+Model - phonecall 
+Response Time - 7.392534017562866 seconds 
+ID - snQQ40nsQ8jNBg80Dzu1CJYsFqPtTdBA
+
+[Run #3]: 
+Model - voicemail 
+Response Time - 16.376991987228394 seconds 
+ID - uAXWWiv2CsIvFjHSATXnIdk8J1z0ippA
+
+[Run #4]: 
+Model - phonecall 
+Response Time - 5.775913953781128 seconds 
+ID - 1GvduyNXddpp414ILqZ3IBEDfrMvWnG0
+
+[Run #4]: 
+Model - voicemail 
+Response Time - 8.503257989883423 seconds 
+ID - eKQhY7TResdLv68xca4wcaiyhoWPwnci
+
+[Run #5]: 
+Model - phonecall 
+Response Time - 28.623340129852295 seconds 
+ID - CliiVDZaMclJyjChG7cMGy7VLnrFZJe3
+
+[Run #5]: 
+Model - voicemail 
+Response Time - 12.531246900558472 seconds 
+ID - ojVKjhCBDbCVglYgRIYfzg2DO7UjZY6Y
+
+[Run #6]: 
+Model - phonecall 
+Response Time - 28.412577152252197 seconds 
+ID - 2CKG5gTxuv33C4gdiH3DSXpUDyoNXxyE
+
+[Run #6]: 
+Model - voicemail 
+Response Time - 13.134056091308594 seconds 
+ID - oxlvZrpREJNcwb2Q0eNejA1L17HxDprc
+
+[Run #7]: 
+Model - phonecall 
+Response Time - 7.036768913269043 seconds 
+ID - ADGGYxneeVIOr3KSY3BM7tv0cglBUe1h
+
+[Run #7]: 
+Model - voicemail 
+Response Time - 10.037333011627197 seconds 
+ID - rNRBv4z53gy67Eon0l3P4pT3T6hc5xdN
+
+[Run #8]: 
+Model - phonecall 
+Response Time - 22.372920751571655 seconds 
+ID - ExbqM28T6Wd0XQuyxFTvmqok5lKe4MPh
+
+[Run #8]: 
+Model - voicemail 
+Response Time - 5.21403694152832 seconds 
+ID - UC87suTO0eDKUd46r7x3x1Dp1orFlJs2
+
+[Run #9]: 
+Model - phonecall 
+Response Time - 4.048509836196899 seconds 
+ID - Gyy4MQFEHyyosoweIlzIuauobJ00d0Mr
+
+[Run #9]: 
+Model - voicemail 
+Response Time - 16.13612699508667 seconds 
+ID - DN2yo8I4hQd6KSBCLjRJrcRHlwFXxjUX
+
+[Run #10]: 
+Model - phonecall 
+Response Time - 16.628942012786865 seconds 
+ID - 1oGJz51UpI4a76XrP0qGWuJDE05194Rf
+
+[Run #10]: 
+Model - voicemail 
+Response Time - 6.873490333557129 seconds 
+ID - vBdJDHphvEHQDQrxHKSnxIgqfYITgPNg
+
+[Run #11]: 
+Model - phonecall 
+Response Time - 8.427855730056763 seconds 
+ID - TC02WWQrNo2Sw0Oez9FO8jva8g04JfGX
+
+[Run #11]: 
+Model - voicemail 
+Response Time - 9.06749963760376 seconds 
+ID - FZfkREr6GyB2dY7JtN9bVTcrxEiF6M0Z
+
+[Run #12]: 
+Model - phonecall 
+Response Time - 2.8501651287078857 seconds 
+ID - gHhx0abZuDUWwpOirjFYTARgVNfURetK
+
+[Run #12]: 
+Model - voicemail 
+Response Time - 2.472059965133667 seconds 
+ID - SX9J35eZn98tBF5LXeEzMxi1aZbGnDno
+
+[Run #13]: 
+Model - phonecall 
+Response Time - 2.7937088012695312 seconds 
+ID - P1mHWmZVVPi23juVm43F0XoHQJHQjtzt
+
+[Run #13]: 
+Model - voicemail 
+Response Time - 3.5518360137939453 seconds 
+ID - QRM0K8pv6TUUPW2lfl7cT9PEJy3nQfnb
+
+[Run #14]: 
+Model - phonecall 
+Response Time - 3.8326029777526855 seconds 
+ID - 31Q4WrfRujDfmB3MnXJAoYBgE1THYBEw
+
+[Run #14]: 
+Model - voicemail 
+Response Time - 8.39063286781311 seconds 
+ID - Q6X6y4C6xu9mu9IihtqJBJFAYYIM7cVr
+
+[Run #15]: 
+Model - phonecall 
+Response Time - 2.6251609325408936 seconds 
+ID - BMNuZwtlroLehvqoBDUWvgEankazvGGW
+
+[Run #15]: 
+Model - voicemail 
+Response Time - 2.309235095977783 seconds 
+ID - CoBw2UPaoYCcnxBR97ql755W0BaibFK0
+
+[Run #16]: 
+Model - phonecall 
+Response Time - 2.807217836380005 seconds 
+ID - WrbtWGkeUKyLFe3txjey15SHYETyCaMM
+
+[Run #16]: 
+Model - voicemail 
+Response Time - 16.07781720161438 seconds 
+ID - jbMtspD9VjCXu47YCAN6chLWnXvLZFlS
+
+[Run #17]: 
+Model - phonecall 
+Response Time - 2.326314926147461 seconds 
+ID - wUXmWITmL0pW2Oq2SRrCiW4QYr49qsmF
+
+[Run #17]: 
+Model - voicemail 
+Response Time - 2.6186790466308594 seconds 
+ID - YxYGKTFaAiBz800vv3VsPAt91N3mIpBe
+
+[Run #18]: 
+Model - phonecall 
+Response Time - 18.178685903549194 seconds 
+ID - hnaxo2izapQl72zMpJsSdHc76Q06i8zB
+
+[Run #18]: 
+Model - voicemail 
+Response Time - 6.642148017883301 seconds 
+ID - Njb8hErp2oJiRClhqzGYWy36p1FLekMY
+
+[Run #19]: 
+Model - phonecall 
+Response Time - 2.000990152359009 seconds 
+ID - bPYSVoXLj2zKUKUmGKhOr7LnfHDSUHjb
+
+[Run #19]: 
+Model - voicemail 
+Response Time - 3.4868109226226807 seconds 
+ID - 7HPoL0Zy6MY5XKqlLrDsCu9zDVaYf87h
+
+[Run #20]: 
+Model - phonecall 
+Response Time - 6.3984551429748535 seconds 
+ID - 6Tkv8HRidSBIDbtN1tOQEKfDwcH3pBsW
+
+[Run #20]: 
+Model - voicemail 
+Response Time - 5.422544956207275 seconds 
+ID - vw0FshC3itUyFJsQtcJ69XzgYifDF3Av
+
+-- Average Compute Time [phonecall - commercial_mono.wav]: 9.492362308502198 seconds --
+-- Average Compute Time [voicemail - commercial_mono.wav]: 8.116941356658936 seconds --
